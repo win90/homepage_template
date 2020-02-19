@@ -1,1 +1,1 @@
-# sample_homepage
+# homepage_template
